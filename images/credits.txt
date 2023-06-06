@@ -1,0 +1,65 @@
+---
+
+Cover image
+file: images/cover.jpg
+credit: istock-1372696346.jpeg
+
+---
+
+file: images/content/0b3bed54-8de1-442f-91f7-a3156754408d.jpg
+credit: iStock
+---
+
+file: images/content/9a09332a-e105-4fed-a996-f2a760b94d3c.jpg
+credit: iStock
+
+
+************** ICONS ****************
+---
+
+accountant by Fiona OM from Noun Project
+file: images/icons/0-comptable.svg
+license: public-domain
+more info: https://thenounproject.com/icon/undefined/
+---
+
+team by Wilson Joseph from Noun Project
+file: images/icons/1-operateurs.svg
+license: public-domain
+more info: https://thenounproject.com/icon/undefined/
+---
+
+boss by Javier Cabezas from Noun Project
+file: images/icons/2-big-boss.svg
+license: public-domain
+more info: https://thenounproject.com/icon/undefined/
+---
+
+client by Icons Producer from Noun Project
+file: images/icons/3-clients.svg
+license: public-domain
+more info: https://thenounproject.com/icon/undefined/
+---
+
+fired by Amethyst Studio from Noun Project
+file: images/icons/4-rh.svg
+license: public-domain
+more info: https://thenounproject.com/icon/undefined/
+---
+
+accountant by Creative Stall from Noun Project
+file: images/icons/5-huissier.svg
+license: public-domain
+more info: https://thenounproject.com/icon/undefined/
+---
+
+cleaner by Gan Khoon Lay from Noun Project
+file: images/icons/6-equipe-dentretien.svg
+license: public-domain
+more info: https://thenounproject.com/icon/undefined/
+---
+
+competitor by jonata hangga from Noun Project
+file: images/icons/7-concurrent.svg
+license: public-domain
+more info: https://thenounproject.com/icon/undefined/
